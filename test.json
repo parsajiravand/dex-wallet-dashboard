@@ -1,0 +1,685 @@
+{
+    "highestProfit": [
+    75145.77981043211,
+    "MAGA",
+    "0xd29da236dd4aac627346e1bba06a619e8c22d7c5"
+    ],
+    "lowestProfit": [
+    5664.317686624617,
+    "MAPE",
+    "0x683a4ac99e65200921f556a19dadf4b0214b5938"
+    ],
+    "highestLoss": [
+    -65.7845361135318,
+    "MM",
+    "0x9011400a1f4a61438c0994f79b02f9ccbeea0cc1"
+    ],
+    "lowestLoss": [
+    -13809.786677428465,
+    "JEFFRY",
+    "0x073a3b3e890a3aaeb061e50e92fffdd31197870b"
+    ],
+    "totalProfit": 107461.37494863934,
+    "totalLoss": -27055.795741218593,
+    "netProfit": 80405.57920742074,
+    "totalProfits": {
+    "month": {
+    "July 2024": 83738.06311667383,
+    "January 2024": -254.60560222237686,
+    "June 2024": -1792.4278120565866,
+    "May 2024": -811.0883936706774,
+    "August 2024": -474.3621013034728
+    },
+    "week": {
+    "July 2024 week 5": -2582.3210872565223,
+    "July 2024 week 2": 100224.33732133126,
+    "July 2024 week 3": -13809.786677428465,
+    "July 2024 week 4": -94.16643997244233,
+    "January 2024 week 3": -254.60560222237686,
+    "June 2024 week 2": -1792.4278120565866,
+    "May 2024 week 4": -595.2064263380825,
+    "May 2024 week 3": -215.88196733259497,
+    "August 2024 week 1": -474.3621013034728
+    },
+    "year": {
+    "2024": 80405.57920742074
+    }
+    },
+    "totalBuySellTimes": {
+    "month": {
+    "July 2024": 10,
+    "January 2024": 1,
+    "June 2024": 1,
+    "May 2024": 4,
+    "August 2024": 2
+    },
+    "week": {
+    "July 2024 week 5": 1,
+    "July 2024 week 2": 7,
+    "July 2024 week 3": 1,
+    "July 2024 week 4": 1,
+    "January 2024 week 3": 1,
+    "June 2024 week 2": 1,
+    "May 2024 week 4": 2,
+    "May 2024 week 3": 2,
+    "August 2024 week 1": 2
+    },
+    "year": {
+    "2024": 18
+    }
+    },
+    "totalBuyAmounts": {
+    "month": {
+    "July 2024": 447347.2873535158,
+    "January 2024": 44734.72873535157,
+    "June 2024": 44734.72873535157,
+    "May 2024": 178938.91494140628,
+    "August 2024": 89469.45747070314
+    },
+    "week": {
+    "July 2024 week 5": 44734.72873535157,
+    "July 2024 week 2": 313143.10114746104,
+    "July 2024 week 3": 44734.72873535157,
+    "July 2024 week 4": 44734.72873535157,
+    "January 2024 week 3": 44734.72873535157,
+    "June 2024 week 2": 44734.72873535157,
+    "May 2024 week 4": 89469.45747070314,
+    "May 2024 week 3": 89469.45747070314,
+    "August 2024 week 1": 89469.45747070314
+    },
+    "year": {
+    "2024": 805225.1172363284
+    }
+    },
+    "totalSellAmounts": {
+    "month": {
+    "July 2024": 1251403.0794277228,
+    "January 2024": 125140.30794277228,
+    "June 2024": 125140.30794277228,
+    "May 2024": 500561.23177108914,
+    "August 2024": 250280.61588554457
+    },
+    "week": {
+    "July 2024 week 5": 125140.30794277228,
+    "July 2024 week 2": 875982.155599406,
+    "July 2024 week 3": 125140.30794277228,
+    "July 2024 week 4": 125140.30794277228,
+    "January 2024 week 3": 125140.30794277228,
+    "June 2024 week 2": 125140.30794277228,
+    "May 2024 week 4": 250280.61588554457,
+    "May 2024 week 3": 250280.61588554457,
+    "August 2024 week 1": 250280.61588554457
+    },
+    "year": {
+    "2024": 2252525.542969901
+    }
+    },
+    "totalBuyTimes": {
+    "month": {
+    "July 2024": 447347.2873535158,
+    "January 2024": 44734.72873535157,
+    "June 2024": 44734.72873535157,
+    "May 2024": 178938.91494140628,
+    "August 2024": 89469.45747070314
+    },
+    "week": {
+    "July 2024 week 5": 44734.72873535157,
+    "July 2024 week 2": 313143.10114746104,
+    "July 2024 week 3": 44734.72873535157,
+    "July 2024 week 4": 44734.72873535157,
+    "January 2024 week 3": 44734.72873535157,
+    "June 2024 week 2": 44734.72873535157,
+    "May 2024 week 4": 89469.45747070314,
+    "May 2024 week 3": 89469.45747070314,
+    "August 2024 week 1": 89469.45747070314
+    },
+    "year": {
+    "2024": 805225.1172363284
+    }
+    },
+    "totalSellTimes": {
+    "month": {
+    "July 2024": 1251403.0794277228,
+    "January 2024": 125140.30794277228,
+    "June 2024": 125140.30794277228,
+    "May 2024": 500561.23177108914,
+    "August 2024": 250280.61588554457
+    },
+    "week": {
+    "July 2024 week 5": 125140.30794277228,
+    "July 2024 week 2": 875982.155599406,
+    "July 2024 week 3": 125140.30794277228,
+    "July 2024 week 4": 125140.30794277228,
+    "January 2024 week 3": 125140.30794277228,
+    "June 2024 week 2": 125140.30794277228,
+    "May 2024 week 4": 250280.61588554457,
+    "May 2024 week 3": 250280.61588554457,
+    "August 2024 week 1": 250280.61588554457
+    },
+    "year": {
+    "2024": 2252525.542969901
+    }
+    },
+    "percentageWeek": {
+    "July 2024 week 5": -5.77251983024957,
+    "July 2024 week 2": 32.005922197894755,
+    "July 2024 week 3": -30.87039324442197,
+    "July 2024 week 4": -0.21049963335985855,
+    "January 2024 week 3": -0.5691452914101949,
+    "June 2024 week 2": -4.0067926256142075,
+    "May 2024 week 4": -0.6652621387952233,
+    "May 2024 week 3": -0.24129124444873906,
+    "August 2024 week 1": -0.5301944537428352
+    },
+    "percentageMonth": {
+    "July 2024": 18.718804267723186,
+    "January 2024": -0.5691452914101949,
+    "June 2024": -4.0067926256142075,
+    "May 2024": -0.45327669162198125,
+    "August 2024": -0.5301944537428352
+    },
+    "percentageYear": {
+    "2024": 9.985478282568552
+    },
+    "averageHoldingTimes": {
+    "2025": {
+    "averageHoldingTime": "1.96 days",
+    "currencyAddress": "0x2025f14377a300b9bf70a09dccd7aafa8cb1d56b"
+    },
+    "BABYNEIRO": {
+    "averageHoldingTime": "1.60 minutes",
+    "currencyAddress": "0xbabe3ce7835665464228df00b03246115c30730a"
+    },
+    "FIGHT": {
+    "profit": 26651.2774515826,
+    "currencyAddress": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
+    "buyAmount": 1587.9409790039062,
+    "buyTimes": 2,
+    "sellTimes": 5,
+    "totalTrades": 7
+    },
+    "BABYNEIRO": {
+    "profit": -2582.3210872565223,
+    "currencyAddress": "0xbabe3ce7835665464228df00b03246115c30730a",
+    "buyAmount": 3197.64697265625,
+    "buyTimes": 4,
+    "sellTimes": 1,
+    "totalTrades": 5
+    },
+    "MAPE": {
+    "profit": 5664.317686624617,
+    "currencyAddress": "0x683a4ac99e65200921f556a19dadf4b0214b5938",
+    "buyAmount": 1595.3339233398438,
+    "buyTimes": 2,
+    "sellTimes": 3,
+    "totalTrades": 5
+    }
+    },
+    "top5ProfitableTokens": {
+    "MAGA": {
+    "profit": 75145.77981043211,
+    "currencyAddress": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
+    "buyAmount": 2759.1520263671873,
+    "buyTimes": 4,
+    "sellTimes": 10,
+    "totalTrades": 14
+    },
+    "FIGHT": {
+    "profit": 26651.2774515826,
+    "currencyAddress": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
+    "buyAmount": 1587.9409790039062,
+    "buyTimes": 2,
+    "sellTimes": 5,
+    "totalTrades": 7
+    },
+    "MAPE": {
+    "profit": 5664.317686624617,
+    "currencyAddress": "0x683a4ac99e65200921f556a19dadf4b0214b5938",
+    "buyAmount": 1595.3339233398438,
+    "buyTimes": 2,
+    "sellTimes": 3,
+    "totalTrades": 5
+    },
+    "MM": {
+    "profit": -65.7845361135318,
+    "currencyAddress": "0x9011400a1f4a61438c0994f79b02f9ccbeea0cc1",
+    "buyAmount": 190.08115234375,
+    "buyTimes": 1,
+    "sellTimes": 1,
+    "totalTrades": 2
+    },
+    "WOJAK": {
+    "profit": -68.46099712438911,
+    "currencyAddress": "0x463f9aea149845f48a4f004eab8e64bfd7ab6da3",
+    "buyAmount": 294.9588134765625,
+    "buyTimes": 1,
+    "sellTimes": 1,
+    "totalTrades": 2
+    }
+    },
+    "overallAverageHoldingTimeAndProfit": {
+    "HoldingTime": "5.36 weeks",
+    "Profit": 4466.976622634485,
+    "BuyAmount": 2485.262707519532
+    },
+    "mostProfitableTokenWithShortestOpeningTime": {
+    "tokenName": "MAPE",
+    "profit": 5664.317686624617,
+    "averageHoldingTime": "3.87 days",
+    "currencyAddress": "0x683a4ac99e65200921f556a19dadf4b0214b5938"
+    },
+    "swapTimeResults": {
+    "longestTime": "27.23 weeks",
+    "shortestTime": "0.03 minutes",
+    "longestTokenInfo": {
+    "tokenName": "MELLOW",
+    "averageHoldingTime": "3.89 weeks",
+    "currencyAddress": "0x6942040b6d25d6207e98f8e26c6101755d67ac89",
+    "profit": -1495.423031770847
+    },
+    "shortestTokenInfo": {
+    "tokenName": "BABYNEIRO",
+    "averageHoldingTime": "1.60 minutes",
+    "currencyAddress": "0xbabe3ce7835665464228df00b03246115c30730a",
+    "profit": -2582.3210872565223
+    }
+    },
+    "avgHoldingTime": "5.36 weeks",
+    "avgProfit": 4466.976622634485,
+    "avgBuyAmount": 2485.262707519532,
+    "holdingTimeLabel": "Investor",
+    "profitLabel": "High Profit",
+    "buyAmountLabel": "Medium Size",
+    "holdingTimeScore": 100,
+    "profitScore": 400,
+    "sizeScore": 400,
+    "totalScore": 1300,
+    "winRate": "16.67",
+    "totalProfitableSwaps": 3,
+    "totalNegativeSwaps": 15,
+    "totalPositions": 18,
+    "newestBoughtToken": {
+    "tokenName": "TSUJI",
+    "buyTime": "2024-08-09T15:14:35.000Z",
+    "profit": 0
+    },
+    "newestSoldToken": {
+    "tokenName": "TSUJI",
+    "sellTime": "2024-08-09T21:08:47.000Z"
+    },
+    "formattedNewestBoughtToken": {
+    "tokenName": "TSUJI",
+    "buyTime": "2024-08-09T15:14:35.000Z",
+    "profit": 0
+    },
+    "formattedNewestSoldToken": {
+    "tokenName": "TSUJI",
+    "sellTime": "2024-08-09T21:08:47.000Z"
+    },
+    "transactionMetrics": {
+    "totalTransactions": 405,
+    "latestTransaction": {
+    "time": "2024-08-13T11:07:35Z",
+    "details": {
+    "type": "receive",
+    "amount": "1978876.66855852",
+    "amount_usd": "0",
+    "sender": "0x763e50e6f7d34f4457574a178bb18c89be2ccee6",
+    "receiver": "0x6b9c30615c731e8f213d0b8d24902be7fe69609d",
+    "currency": {
+    "symbol": "ZAZA",
+    "address": "0x8302094e963061aace99b166a74616d51d703062"
+    },
+    "transaction": {
+    "hash": "0x0ad4ed670e79a6ed4c39e9a457dc34b7bddbd757896c9c479357afb05699d13f",
+    "value": "0.000000000000000000",
+    "gasPrice": "0.000000001202391876"
+    },
+    "block": {
+    "timestamp": {
+    "time": "2024-08-13T11:07:35Z"
+    }
+    }
+    }
+    },
+    "firstTransaction": {
+    "time": "2024-01-15T17:55:23.000Z",
+    "details": {
+    "type": "receive",
+    "sender": {
+    "address": "0x510f30961c61225dcfeb3b6bdbadb6a8a995b99b"
+    },
+    "receiver": {
+    "address": "0x6b9c30615c731e8f213d0b8d24902be7fe69609d"
+    },
+    "amount": 0.5,
+    "amount_usd": 1265.3330078125,
+    "currency": {
+    "symbol": "ETH",
+    "address": "0x"
+    },
+    "transaction": {
+    "hash": "0xf8647b1730243a5a48e788ab987019a05e6cd906606b91bb274e10c49f0f715b",
+    "gasValue": 0.5,
+    "gasPrice": 3.6347995527e-8
+    },
+    "block": {
+    "timestamp": {
+    "time": "2024-01-15T17:55:23Z"
+    }
+    }
+    }
+    },
+    "uniqueDaysActive": 87,
+    "walletAge": 211
+    },
+    "percentageProfitsPerToken": {
+    "2025": {
+    "profit": -94.32214813994189,
+    "currencyAddress": "0x2025f14377a300b9bf70a09dccd7aafa8cb1d56b"
+    },
+    "BABYNEIRO": {
+    "profit": -80.75691623679823,
+    "currencyAddress": "0xbabe3ce7835665464228df00b03246115c30730a"
+    },
+    "FIGHT": {
+    "profit": 1678.3544101431642,
+    "currencyAddress": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6"
+    },
+    "JAMONG": {
+    "profit": -36.84028396530238,
+    "currencyAddress": "0x9c0c59e2b6ea17aa568076015053f5f34ce26149"
+    },
+    "BabyNeiro": {
+    "profit": -61.42920966765557,
+    "currencyAddress": "0xe9b8c15cb7c669c3f2679739c7835c6b911dbddb"
+    }
+    },
+    "totalWithdraw": 36970.0933444336,
+    "totalDeposit": 4949.297189474081,
+    "sendTokens": {
+    "totalSendTransactions": 50
+    },
+    "sentHistory": [
+    {
+    "amount": 0.01,
+    "amount_usd": 33.2227392578125,
+    "time": "7/30/2024, 4:46:59 PM"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 33.19646484375,
+    "time": "7/30/2024, 4:12:23 PM",
+    "interval": "0.02 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 32.8214404296875,
+    "time": "7/29/2024, 2:17:11 AM",
+    "interval": "1.58 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 32.74321533203125,
+    "time": "7/28/2024, 1:09:35 PM",
+    "interval": "0.55 days"
+    },
+    {
+    "amount": 0.02,
+    "amount_usd": 69.7248583984375,
+    "time": "7/23/2024, 9:19:47 PM",
+    "interval": "4.66 days"
+    },
+    {
+    "amount": 2,
+    "amount_usd": 7040.02197265625,
+    "time": "7/19/2024, 10:30:47 PM",
+    "interval": "3.95 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 33.9833837890625,
+    "time": "7/18/2024, 6:58:47 PM",
+    "interval": "1.15 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 34.8184521484375,
+    "time": "7/17/2024, 3:03:23 AM",
+    "interval": "1.66 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 34.84764404296875,
+    "time": "7/17/2024, 3:01:35 AM",
+    "interval": "0.00 days"
+    },
+    {
+    "amount": 0.04,
+    "amount_usd": 135.7665625,
+    "time": "7/16/2024, 10:03:35 AM",
+    "interval": "0.71 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 32.8024267578125,
+    "time": "7/15/2024, 2:18:47 AM",
+    "interval": "1.32 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 31.9208251953125,
+    "time": "7/14/2024, 8:07:11 PM",
+    "interval": "0.26 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 31.76984375,
+    "time": "7/14/2024, 3:30:23 AM",
+    "interval": "0.69 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 31.84195068359375,
+    "time": "7/13/2024, 11:37:23 PM",
+    "interval": "0.16 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 31.7669677734375,
+    "time": "7/13/2024, 10:46:11 PM",
+    "interval": "0.04 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 31.24659423828125,
+    "time": "7/12/2024, 3:14:35 PM",
+    "interval": "1.31 days"
+    },
+    {
+    "amount": 66385.19,
+    "amount_usd": 0,
+    "time": "7/11/2024, 10:31:47 PM",
+    "interval": "0.70 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 31.10329833984375,
+    "time": "7/11/2024, 8:54:11 PM",
+    "interval": "0.07 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 31.48122314453125,
+    "time": "7/11/2024, 3:14:47 PM",
+    "interval": "0.24 days"
+    },
+    {
+    "amount": 0.01,
+    "amount_usd": 30.944931640625,
+    "time": "7/11/2024, 12:32:11 AM",
+    "interval": "0.61 days"
+    },
+    {
+    "amount": 1,
+    "amount_usd": 3117.287109375,
+    "time": "7/10/2024, 5:10:59 PM",
+    "interval": "0.31 days"
+    },
+    {
+    "amount": 1,
+    "amount_usd": 3120.51806640625,
+    "time": "7/10/2024, 5:08:59 PM",
+    "interval": "0.00 days"
+    },
+
+    {
+    "amount": "400000000000.000000000",
+    "amount_usd": "0",
+    "time": "8/12/2024, 9:48:23 PM",
+    "interval": "0.22 days"
+    }
+    ],
+    "DepositDuration": "2.05 days",
+    "totalNotClosedBalance": 0,
+    "totalPartiallyClosed": 0,
+    "CurrentBalance": 0,
+    "totalNumofPartiallyClosed": {
+    "totalnumPartiallyClosedData": 7
+    },
+    "totalNumofFullyOpenedData": {
+    "totalnumPartiallyClosedData": 32
+    },
+    "totalNumTransactionsData": {
+    "totalTransactions": 405
+    },
+    "Interaction": {
+    "mostRepeatedSendAddress": {
+    "address": "0xb0999731f7c2581844658a9d2ced1be0077b7397",
+    "count": 40
+    },
+    "mostRepeatedReceiveAddress": {
+    "address": "0x5862cb615ed72eb570f1619d431739bfdfc9858a",
+    "count": 7
+    },
+    "mostIncludedAddress": {
+    "address": "0x3da6de083581b02d47ea23b6dd41676d2744fb3d",
+    "count": 4
+    }
+    },
+    "SwapTime": [
+    "2024-06-27T02:14:37.333Z"
+    ],
+    "BotActivity": "Not Bot activity",
+    "details": "Dex Trader",
+    "HotTokenHolders": {
+    "tokenName": "NEIRO",
+    "balanceType": "notClosedPositions",
+    "Buy Amount": 1.5,
+    "Buy Amount (USD)": 4960.640429687501,
+    "Sell Amount": 0,
+    "Sell Amount (USD)": 0,
+    "Profit": -4960.640429687501,
+    "Entry Price": 0.06913051521848454,
+    "Exit Price": null,
+    "Buy Times": [
+    {
+    "time": "2024-07-30T16:46:47Z"
+    },
+    {
+    "time": "2024-07-30T16:31:23Z"
+    },
+    {
+    "time": "2024-07-30T16:11:59Z"
+    },
+    {
+    "time": "2024-07-30T20:53:59Z"
+    }
+    ],
+    "Sell Times": [],
+    "Num of Buy Times": 4,
+    "Num of Sell Times": 0,
+    "Sell Amount of NEIRO": 0,
+    "Buy Amount of NEIRO": 71757.608257505,
+    "Balance": 71757.608257505,
+    "Currency Address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+    "currentValue": 0,
+    "currentProfit": -4960.640429687501
+    },
+    "Top20HotTokenHolders": [
+    {
+    "tokenName": "PEIPEI",
+    "balanceType": "notClosedPositions",
+    "Buy Amount": 0.1,
+    "Buy Amount (USD)": 380.3870727539063,
+    "Sell Amount": 0,
+    "Sell Amount (USD)": 0,
+    "Profit": -380.3870727539063,
+    "Entry Price": 1.116835548621037e-7,
+    "Exit Price": null,
+    "Buy Times": [
+    {
+    "time": "2024-06-07T14:10:59Z"
+    },
+    {
+    "time": "2024-06-07T13:20:11Z"
+    }
+    ],
+    "Sell Times": [],
+    "Num of Buy Times": 2,
+    "Num of Sell Times": 0,
+    "Sell Amount of PEIPEI": 0,
+    "Buy Amount of PEIPEI": 3405936292.2640877,
+    "Balance": 3405936292.2640877,
+    "Currency Address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+    "currentValue": 0,
+    "currentProfit": -380.3870727539063
+    },
+    {
+    "tokenName": "BABYNEIRO",
+    "isPartiallyClosed": true,
+    "balance": 5974558318.609913,
+    "balanceType": "partiallyClosedPositions",
+    "Buy Amount": 1.1,
+    "Buy Amount (USD)": 3197.64697265625,
+    "Sell Amount": 0,
+    "Sell Amount (USD)": 615.3258853997276,
+    "Profit": -2582.3210872565223,
+    "Entry Price": 3.482514130291279e-7,
+    "Exit Price": 1.9184277387271695e-7,
+    "Buy Times": [
+    {
+    "time": "2024-07-30T16:21:35Z"
+    },
+    {
+    "time": "2024-07-31T04:40:35Z"
+    },
+    {
+    "time": "2024-07-31T04:29:35Z"
+    },
+    {
+    "time": "2024-08-05T15:42:11Z"
+    }
+    ],
+    "Sell Times": [
+    {
+    "time": "2024-07-30T16:23:11Z"
+    }
+    ],
+    "Num of Buy Times": 4,
+    "Num of Sell Times": 1,
+    "Sell Amount of BABYNEIRO": 3207448855.008641,
+    "Buy Amount of BABYNEIRO": 9182007173.618553,
+    "Balance": 5974558318.609913,
+    "Currency Address": "0xbabe3ce7835665464228df00b03246115c30730a",
+    "currentValue": 0,
+    "currentProfit": -2582.3210872565223
+    }
+    ],
+    "TopMultiChain": [],
+    "TotalFee": 0,
+    "DextraderScore": 400,
+    "averagePercentageyearly": 9.985478282568552,
+    "labelTrader": "Night Trader",
+    "timestamp": 1723627786794
+    }
