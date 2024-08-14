@@ -11,9 +11,11 @@ import {
   PointElement,
   CategoryScale,
   Chart as ChartJS,
+  registerables
 } from "chart.js";
 
 ChartJS.register(
+  ...registerables,
   CategoryScale,
   LinearScale,
   BarElement,
